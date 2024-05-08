@@ -1,8 +1,8 @@
 ![I am ](https://github.com/harun181/harun181/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm shoriful isla,(ji,)</h1>
+<h1 align="center">Hi 👋, I'm shoriful islam(jim)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Co-founder & Chief Operating Officer at FRONTEND WEB DEVELOPER</h4>
 
 <div align="center">
 
@@ -12,7 +12,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently LARNING on frontend web developer [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
